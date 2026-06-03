@@ -1,4 +1,5 @@
 # THE OFFICIAL HOWICK COLLEGE DIGITAL TECH CIRCLE OF SUFFERING
+![Patrick](patrick.png)
 
 This is a shared holding cell for the most broken, dysfunctional, and legally hazardous code in our entire digital technologies class. Our teacher forced us to make github accounts, so we grouped up to pool our collective lack of knowledge into one giant digital disaster.
 
