@@ -1,10 +1,1 @@
-# THE OFFICIAL HOWICK COLLEGE DIGITAL TECH CIRCLE OF SUFFERING
-![Patrick](patrick.png)
-
-hi guys
-u can edit this file here
-https://github.com/I-dion-t-know-bro-I-have-no-clue/.github/edit/main/profile/README.md
-and everything u write will show up on the main group page
-
-i made peak
-![Peak](peak.png)
+our last year of school was epic, thanks guys
